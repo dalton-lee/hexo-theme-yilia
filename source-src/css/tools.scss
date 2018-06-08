@@ -1,10 +1,10 @@
 .tools-col {
-    width: 330px;
+    width: 300px;
     height: 100%;
     position: fixed;
     left: 0;
     top: 0;
-    z-index: 998;
+    z-index: 0;
     padding: 0;
     opacity: 0;
     -webkit-overflow-scrolling: touch;
@@ -24,7 +24,7 @@
     .tools-wrap, .tools-section{
         height: 100%;
         color: #e5e5e5;
-        width: 330px;
+        width: 360px;
         overflow: hidden;
         overflow-y: auto;
         ::-webkit-scrollbar {
