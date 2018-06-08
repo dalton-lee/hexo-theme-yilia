@@ -6,10 +6,10 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/dalton-lee"
+  weibo: "http://weibo.com/1681646121"
+  rss: "https://lidc.me/atom.xml"
+  zhihu: "https://www.zhihu.com/people/l-dc"
   #qq: "#"
   #weixin: "#"
   #jianshu: "#"
@@ -45,7 +45,7 @@ open_in_new: false
 # 请在需要打赏的文章的md文件头部，设置属性reward: true
 
 # 打赏基础设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
-reward_type: 2
+reward_type: 0
 # 打赏wording
 reward_wording: '谢谢你请我吃糖果'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
@@ -54,9 +54,9 @@ alipay:
 weixin: 
 
 # Miscellaneous
-baidu_analytics: ''
-google_analytics: ''
-favicon: /favicon.ico
+baidu_analytics: 'cd25de455d57417f28ecbaf1937e2b63'
+google_analytics: 'UA-98783955-1'
+favicon: /common/lidc.ico
 
 #你的头像url
 avatar: https://0d077ef9e74d8.cdn.sohucs.com/clip_picture_1492509995279
@@ -74,8 +74,8 @@ duoshuo: false
 wangyiyun: false
 
 #3、畅言
-changyan_appid: ******
-changyan_conf: ******
+changyan_appid: cysYKmLur
+changyan_conf: prod_092b0f2f2c53a78d48eafc67cfda416a
 
 #4、Disqus 在hexo根目录的config里也有disqus_shortname字段，优先使用yilia的
 disqus: false
